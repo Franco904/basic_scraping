@@ -3,6 +3,7 @@ name: Teste de unidade
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
+milestone: Testes de unidade
 assignees: ''
 
 ---
